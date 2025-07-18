@@ -1,20 +1,23 @@
 <h1 align="center">👋 Hey there, I’m Husnain Qadir</h1>
 
 <p align="center">
-  💻 Full-Stack Developer | ⚛️ React & Next.js Specialist | 🔐 API Wizard
+  💻 Full-Stack & CMS Developer | ⚛️ React & Next.js Specialist | 🛒 WordPress & Shopify Expert | 🔐 API Wizard
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Code+with+purpose.;Build+with+passion.;Solve+real-world+problems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Code+with+purpose.;Build+with+passion.;Solve+real-world+problems.;Craft+Pixel-perfect+CMS+websites." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
-I'm a Software Engineer with 2 years of experience building elegant, scalable, and performance-driven web applications.
+I’m a **Senior Software Engineer** and **CMS Development Expert** with 5+ years of experience building elegant, scalable, and performance-driven web applications and CMS websites.  
 
-I thrive on modern stacks like **React**, **Next.js**, **Node.js**, and **Firebase**, and I believe in crafting clean code with pixel-perfect UI.
+I specialize in:  
+⭐️ **Full-Stack Development** (React, Next.js, Node.js)  
+⭐️ **CMS Development** (WordPress, Shopify)  
+⭐️ Clean Code, Pixel-Perfect UIs & Optimized Workflows  
 
 ---
 
@@ -22,11 +25,11 @@ I thrive on modern stacks like **React**, **Next.js**, **Node.js**, and **Fireba
 
 <table align="center">
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=wordpress" height="40"/><br/>WordPress</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=shopify" height="40"/><br/>Shopify</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"/><br/>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="40"/><br/>Next.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br/>Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="40"/><br/>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" height="40"/><br/>TypeScript</td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br/>Node.js</td>
@@ -46,10 +49,11 @@ I thrive on modern stacks like **React**, **Next.js**, **Node.js**, and **Fireba
 
 ### ⚙️ Skills At A Glance
 
-- 🌍 **Frontend:** React.js, Next.js, Tailwind CSS  
+- 🌍 **Frontend:** React.js, Next.js, Tailwind CSS, Shopify Liquid  
 - 🧠 **Backend:** Node.js, Firebase, GraphQL, MongoDB  
+- 🛠️ **CMS Expertise:** WordPress (Elementor, WooCommerce), Shopify (Liquid, Custom Apps)  
 - 🔧 **Tools:** Git, Postman, Figma, VS Code  
-- 🧩 **Mindset:** Clean Code, Best Practices, Reusability
+- 🧩 **Mindset:** Clean Code, Best Practices, Reusability  
 
 ---
 
@@ -70,6 +74,8 @@ I thrive on modern stacks like **React**, **Next.js**, **Node.js**, and **Fireba
   <img src="https://img.shields.io/badge/Next.js-15%25-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-10%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-15%25-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-30%25-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-20%25-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
 </p>
 
 ---
